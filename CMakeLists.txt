@@ -4,7 +4,7 @@ project(funExample)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
-find_package(GTest REQUIRED PATHS /home/alexandra/allxdrstp/workspace/projects/fun/third-party/gtest)
+find_package(GTest REQUIRED PATHS /home/alexandra/allxdrstp/workspace/projects/lab05/_build/third-party/gtest/googlemock/gtest/generated/GTestConfig.cmake)
 include_directories(${GTEST_INCLUDE_DIRS})
 
 add_library(fun SHARED func.cpp)
