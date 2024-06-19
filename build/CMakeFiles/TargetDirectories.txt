@@ -1,0 +1,5 @@
+/home/alexandra/allxdrstp/workspace/projects/fun/build/CMakeFiles/fun.dir
+/home/alexandra/allxdrstp/workspace/projects/fun/build/CMakeFiles/funExampleTests.dir
+/home/alexandra/allxdrstp/workspace/projects/fun/build/CMakeFiles/test.dir
+/home/alexandra/allxdrstp/workspace/projects/fun/build/CMakeFiles/edit_cache.dir
+/home/alexandra/allxdrstp/workspace/projects/fun/build/CMakeFiles/rebuild_cache.dir
