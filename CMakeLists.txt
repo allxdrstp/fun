@@ -4,7 +4,7 @@ project(funExample)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
-set(GTEST_DIR "/home/alexandra/allxdrstp/workspace/projects/lab05/_build/third-party/gtest/googlemock/gtest/generated")
+set(GTEST_DIR "${CMAKE_CURRENT_SOURCE_DIR}")
 find_package(GTest REQUIRED)
 
 add_library(fun SHARED func.cpp)
